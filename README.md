@@ -1,7 +1,5 @@
 # Space_X_Megaproject
 
-Sure, here's an updated text that includes the information about the megaproject for the IBM Data Science Certificate:
-
 This is a repository showcasing a megaproject that I completed as part of my IBM Data Science Certificate.
 
 This megaproject encompasses five sectors:
