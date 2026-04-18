@@ -21,4 +21,4 @@ Throughout the megaproject, I demonstrate my skills and knowledge in various Pyt
 
 This megaproject represents the culmination of my IBM Data Science Certificate journey, showcasing my abilities in data collection, wrangling, exploratory data analysis, machine learning, and beyond.
 
-Projects completed as part of my IBM Data Science Certificate by me (Jason Kehagias/Ιάσων Κεχαγιάς)
+Projects completed as part of my IBM Data Science Certificate by me (Jason Kechagias/Ιάσων Κεχαγιάς)
